@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+e:\work\duilib_ultimate-master---\duilib\core\uimanager.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+e:\work\duilib_ultimate-master---\duilib\core\uimanager.h(64): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::MSGTYPE_UI”的左侧
+  MainWnd.cpp
+  ADMonSetup.cpp
+  正在生成代码...
+ADMonSetup.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  ADMonSetup.vcxproj -> E:\Work\DuiLib_Ultimate-master---\Bin\ADMonSetup.exe

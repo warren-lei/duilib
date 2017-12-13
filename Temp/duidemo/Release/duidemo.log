@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(E:\Work\DuiLib_Ultimate-master---\temp\duidemo\Release\)包含从另一个项目(HiDPITest.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  MainWnd.cpp
+e:\work\duilib_ultimate-master---\demos\duidemo\ControlEx.h(34): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+e:\work\duilib_ultimate-master---\demos\duidemo\ControlEx.h(143): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+  StdAfx.obj : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+  正在生成代码
+  已完成代码的生成
+  duidemo.vcxproj -> E:\Work\DuiLib_Ultimate-master---\bin\duidemo.exe

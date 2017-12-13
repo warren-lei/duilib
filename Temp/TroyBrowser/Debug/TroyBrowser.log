@@ -1,0 +1,8 @@
+﻿  StdAfx.cpp
+e:\work\duilib_ultimate-master---\duilib\Core/UIManager.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+e:\work\duilib_ultimate-master---\duilib\Core/UIManager.h(64): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::MSGTYPE_UI”的左侧
+  TroyBrowser.cpp
+  MainWnd.cpp
+  正在生成代码...
+  TroyBrowser.vcxproj -> E:\Work\DuiLib_Ultimate-master---\bin\TroyBrowser_d.exe
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\mshtml.h(43244): warning BK4504: 文件包含的引用太多；忽略来自此源的进一步引用

@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+e:\work\duilib_ultimate-master---\duilib\core\uimanager.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+e:\work\duilib_ultimate-master---\duilib\core\uimanager.h(64): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::MSGTYPE_UI”的左侧
+  IUiEffectManagerImpl.cpp
+  main.cpp
+  FrameWnd.cpp
+  AnimLayout.cpp
+  正在生成代码...
+  Desktop.vcxproj -> E:\Work\DuiLib_Ultimate-master---\bin\AnimationWindow_d.exe

@@ -1,0 +1,19 @@
+﻿  StdAfx.cpp
+e:\work\duilib_ultimate-master---\duilib\Core/UIManager.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+e:\work\duilib_ultimate-master---\duilib\Core/UIManager.h(64): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::MSGTYPE_UI”的左侧
+  XUnzip.cpp
+  json_writer.cpp
+  json_value.cpp
+  json_reader.cpp
+  正在生成代码...
+  BDWallPaper.cpp
+e:\work\duilib_ultimate-master---\demos\bdwallpaper\DataMgr.h(109): warning C4018: “<”: 有符号/无符号不匹配
+e:\work\duilib_ultimate-master---\demos\bdwallpaper\controlex\UIWPPanel.h(15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\work\duilib_ultimate-master---\demos\bdwallpaper\MainWnd.h(123): warning C4018: “<”: 有符号/无符号不匹配
+  MainWnd.cpp
+e:\work\duilib_ultimate-master---\demos\bdwallpaper\DataMgr.h(109): warning C4018: “<”: 有符号/无符号不匹配
+e:\work\duilib_ultimate-master---\demos\bdwallpaper\controlex\UIWPPanel.h(15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\work\duilib_ultimate-master---\demos\bdwallpaper\MainWnd.h(123): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  BDWallPaper.vcxproj -> E:\Work\DuiLib_Ultimate-master---\bin\BDWallPaper_d.exe
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\mshtml.h(43244): warning BK4504: 文件包含的引用太多；忽略来自此源的进一步引用

@@ -1,0 +1,9 @@
+﻿  StdAfx.cpp
+e:\work\duilib_ultimate-master---\duilib\Core/UIManager.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+e:\work\duilib_ultimate-master---\duilib\Core/UIManager.h(64): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::MSGTYPE_UI”的左侧
+  WkeWebkit.cpp
+  WkeDemo.cpp
+  MsgWnd.cpp
+  MainWnd.cpp
+  正在生成代码...
+  WkeBrowser.vcxproj -> E:\Work\DuiLib_Ultimate-master---\bin\WkeBrowser_d.exe

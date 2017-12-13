@@ -1,0 +1,32 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  ImageProcess.cpp
+  ColorHelper.cpp
+  UiFeatureEffect.cpp
+  Effect.cpp
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(339): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(347): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(355): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(363): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(374): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(386): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(398): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(410): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(757): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(775): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(801): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(819): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(965): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(973): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(981): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(989): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(1007): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(1019): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(1031): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(1043): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(1413): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+e:\work\duilib_ultimate-master---\demos\animationwindow\uifeatureeffect\effect.cpp(1457): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+  正在生成代码...
+dllmain.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+    正在创建库 E:\Work\DuiLib_Ultimate-master---\bin\UIFeatureEffect.lib 和对象 E:\Work\DuiLib_Ultimate-master---\bin\UIFeatureEffect.exp
+  UIFeatureEffect.vcxproj -> E:\Work\DuiLib_Ultimate-master---\bin\UIFeatureEffect.dll
